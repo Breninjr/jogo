@@ -16,11 +16,21 @@ Esse é um código feito pelo Breno Jr, desenvolvido na disciplina de WEB II. Es
 - <strong>Funcionalidade 1:</strong> Visualizar nome de jogos e suas respectivas categorias e plataformas.
 - <strong>Funcionalidade 2:</strong> Cadastrar novos jogos na tabela e suas respectivas informações.
 
-## :white_check_mark: Instruções sobre o projeto
+## :page_with_curl: Instruções sobre o projeto
 
 Essa é a tela inicial, na qual você pode observar os seguintes jogos listados:
-[<img src='static/foto_inicial.PNG'>]
+<img src="static/tela_inicial.PNG">
+Para adicionar mais jogos na jogoteca, voce precisa estar logado. Para isso, basta clicar no botão de login e assim você será direcionado a essa página:
+<img src="static/tela_login.png">
+Agora basta você escrever o seu login e senha, como no exemplo a seguir:
+<img src="static/tela_login2.png">
+Otimo! Você agora está logado. Para adicionar mais jogos clique no botão "Cadastrar", e logo após você será direcionado a essa página:
+<img src="static/tela_cadastro.png">
+Agora basta preencher o formulário, como no exemplo:
+<img src="static/tela_cadastro2.png">
+Pronto! O jogo está cadastrado:
+<img src="static/tela_final.png">
 
-## :framed_picture: Autores
+## :framed_picture: Autor
 
 [<img src="static/foto_readme.jpg" width=202 height=202><br><sub>Breno JR</sub>](https://instagram.com/brenotjunior)
